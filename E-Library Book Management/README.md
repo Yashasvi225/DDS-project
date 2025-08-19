@@ -22,17 +22,17 @@ Perfect for learning core data structures in a real-world context.
 - View full inventory with status
 - Fully interactive command-line interface
 
-  ---
+---
 
-  ## 📂 Data Structures Used
+## 📂 Data Structures Used
   - **Singly Linked List**(BookNode,LinkedList)
   - **Searching** -> Linear search with keyword matching
   - **Stack**(Python list) →  LIFO for actions
   - **Traverse** linked list
 
-    ---
+---
 
-    ## 🚀 How to Run
+## 🚀 How to Run
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/e-library-system.git
