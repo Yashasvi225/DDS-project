@@ -15,14 +15,14 @@ A command-line ride-sharing dispatch system that matches riders to drivers based
 - Simulate ride completion to return drivers to the pool
 - Save and extend for real-world use (GPS coordinates, ETA, etc.)
 
-  ---
+---
 
-  ## 📂 Data Structures Used
+## 📂 Data Structures Used
   - **Array of Drivers**-> List
   - **FIFO processing**-> queue.Queue()
   - **Priority queue**-> heapy
 
-    ---
+---
 
 ## 🚀 How to Run
 ```bash
@@ -32,5 +32,3 @@ cd ride-sharing-simulator/src
 
 # Run the simulator
 python ride_sharing_simulator.py
----
-    
