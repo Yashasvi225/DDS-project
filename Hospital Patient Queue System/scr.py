@@ -6,10 +6,6 @@ import queue
 import datetime
 
 
-# -----------------------------
-# 🏥 Main Hospital Queue System
-# -----------------------------
-
 class HospitalQueue:
     def __init__(self, avg_service_time=10):
         # Priority queue: (priority, timestamp, patient_name)
